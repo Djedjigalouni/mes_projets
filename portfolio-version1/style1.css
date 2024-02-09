@@ -1,0 +1,10 @@
+head ,main, section,body{
+    background-image:url('https://cdn.pixabay.com/photo/2012/02/17/14/56/background-14321_960_720.jpg') ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 0;
+  }
+  .container{
+    background-image: url('https://image.freepik.com/vecteurs-libre/fond-colore-degrade_53876-93208.jpg');
+  }
